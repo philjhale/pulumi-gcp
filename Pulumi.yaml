@@ -1,0 +1,3 @@
+name: pulumi-gcp
+runtime: dotnet
+description: A minimal GCP C# Pulumi program
