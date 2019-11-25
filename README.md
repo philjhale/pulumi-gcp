@@ -21,6 +21,7 @@ pulumi config set gcp:region europe-west1
 
 Deploy all the things.
 ```
+cd [some-folder]
 pulumi up
 ```
 
