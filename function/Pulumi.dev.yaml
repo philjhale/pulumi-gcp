@@ -1,0 +1,3 @@
+config:
+  gcp:project: pulumi-260020
+  gcp:region: europe-west1
